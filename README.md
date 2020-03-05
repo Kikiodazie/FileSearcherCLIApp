@@ -1,5 +1,5 @@
 # FileSearcherCLIApp
-A file searcher app that searches files by text using Regex and adds files containing the matching the text to a zipFile.
+A file searcher app that searches files by text using Regex and adds files containing the matching text to a zipFile.
 
 ## Usage
 - Clone the repo. 
@@ -10,4 +10,4 @@ A file searcher app that searches files by text using Regex and adds files conta
 - Run
 
 ## Contributing 
-Checkout "issues" test for functionality before making a PR.
+Checkout "issues". Test for functionality before making a PR.
